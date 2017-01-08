@@ -1,12 +1,12 @@
 {
-  "name": "angular-bootstrap-calendar",
-  "description": "A pure AngularJS bootstrap themed responsive calendar that can display events and has views for year, month, week and day",
-  "version": "0.27.1",
-  "homepage": "https://github.com/mattlewis92/angular-bootstrap-calendar",
+  "name": "angular-bootstrap-calendar-petkit",
+  "description": "基于angular-bootstrap-calendar的修改 分列显示",
+  "version": "0.1.0",
+  "homepage": "https://github.com/petkit-io/angular-bootstrap-calendar-petkit",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattlewis92/angular-bootstrap-calendar.git"
+    "url": "https://github.com/petkit-io/angular-bootstrap-calendar-petkit.git"
   },
   "files": [
     "dist",
